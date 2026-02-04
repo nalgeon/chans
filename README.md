@@ -113,12 +113,6 @@ You decide the rest:
 
 The same applies to other channel operations.
 
-## Contributing
-
-Contributions are welcome. For anything other than bug fixes, please open an issue first to discuss what you want to change.
-
-Make sure to add or update tests as needed.
-
 ## License
 
 Created by [Anton Zhiyanov](https://antonz.org/). Released under the MIT License.
